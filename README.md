@@ -7,7 +7,7 @@ Python3
 
 ## Setup
 * First record a video of yourself which you want to play in the zoom meeting.
-* Then go to this website and convert this video to jpg. Upload the video and download jpg in zip.
+* Then go to [this](https://ezgif.com/video-to-jpg) website and convert this video to jpg. Upload the video and download jpg in zip.
 * Now disable all the cameras of your laptop.
 * Extract all the jpg images in a folder.
 * Now open zoom and in settings select background settings.
